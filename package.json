@@ -21,10 +21,10 @@
     "test": "mocha --reporter dot --slow 200ms --bail"
   },
   "dependencies": {
-    "engine.io": "1.6.4",
-    "socket.io-parser": "2.2.6",
+    "engine.io": "4.0.0",
+    "socket.io-parser": "3.4.1",
     "socket.io-client": "automattic/socket.io-client#master",
-    "socket.io-adapter": "0.4.0",
+    "socket.io-adapter": "1.0.0",
     "has-binary": "0.1.7",
     "debug": "2.2.0"
   },
